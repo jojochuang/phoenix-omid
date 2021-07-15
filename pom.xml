@@ -191,7 +191,7 @@
         <zookeeper.version>3.4.9</zookeeper.version>
         <snakeyaml.version>1.26</snakeyaml.version>
         <beanutils.version>1.9.4</beanutils.version>
-        <commons-io.version>2.4</commons-io.version>
+        <commons-io.version>2.10.0</commons-io.version>
         <google.findbugs.version>3.0.1</google.findbugs.version>
         <commons-pool2.version>2.4.2</commons-pool2.version>
 
