@@ -158,7 +158,7 @@
         <shims.artifactId>${shims1.artifactId}</shims.artifactId>
         <java.version>1.7</java.version>
         <hadoop.version>${hadoop1.version}</hadoop.version>
-        <hbase.version>${hbase1.version}</hbase.version>
+        <hbase.version>2.4.17</hbase.version>
         <shims.module>hbase-1</shims.module>
         <hbase.artifactId.suffix>${hbase1.artifactId.suffix}</hbase.artifactId.suffix>
 
@@ -617,7 +617,7 @@
                 <shims.module>hbase-2</shims.module>
                 <java.version>1.8</java.version>
                 <hadoop.version>${hadoop2.version}</hadoop.version>
-                <hbase.version>${hbase2.version}</hbase.version>
+                <hbase.version>2.4.17</hbase.version>
                 <hbase.artifactId.suffix>${hbase2.artifactId.suffix}</hbase.artifactId.suffix>
             </properties>
         </profile>
